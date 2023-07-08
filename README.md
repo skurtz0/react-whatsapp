@@ -11,4 +11,4 @@ Thats it.
 
 Dont forget the stars <3
 
-And there is live repo: react-whatsapp-rho.vercel.app
+And there is live repo: (https://react-whatsapp-rho.vercel.app/)
